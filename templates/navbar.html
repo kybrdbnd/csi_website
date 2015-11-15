@@ -1,0 +1,82 @@
+{% load staticfiles %}
+<!doctype html>
+<html>
+
+<head>
+    {% include "css.html" %}
+</head>
+
+<body>
+    <nav>
+        <div class="nav-wrapper indigo darken-1">
+            <header>
+                <a href="{% url 'layout.views.home'%" class="brand-logo">Computer Society of India</a>
+            </header>
+            <ul id="slide-out" class="side-nav fixed" style="width:240px;">
+                <li class="logo">
+                    <a id="logo-container" href="#" class="brand-logo">
+                        <img src="{%static 'img/logo.png'%}" alt="" height="150px" width="150px">
+                        <br><span id="logo_title"><strong>CSI SRM Student Chapter</strong></span>
+                    </a>
+                </li>
+                <li>
+                    <a class="navigation__link waves-effect waves-purple" href="{% url 'layout.views.home'%}">
+                        <i class="material-icons">home</i> Home</a>
+                </li>
+                <li>
+                    <a class="navigation__link waves-effect waves-purple" href="{% url 'layout.views.events'%}">
+                        <i class="material-icons">event</i>Event</a>
+                </li>
+                <li>
+                    <a class="navigation__link waves-effect waves-purple" href="{% url 'layout.views.gallery'%}">
+                        <i class="material-icons">insert_photo</i>Gallery</a>
+                </li>
+                <li>
+                    <a class="navigation__link waves-effect waves-purple" href="{% url 'layout.views.team'%}">
+                        <i class="material-icons">android</i>Team</a>
+                </li>
+                <li>
+                    <a class="navigation__link waves-effect waves-purple" href="{% url 'layout.views.contact'%}">
+                        <i class="material-icons">contacts</i>Contact Us</a>
+                </li>
+            </ul>
+            <a href="#!" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
+        </div>
+        <div class="fixed-action-btn" style="bottom: 50px; right: 40px;">
+            <a class="waves-effect btn-floating btn-large red">
+                <i class="large material-icons">add</i>
+            </a>
+            <ul>
+                <li>
+                    <a class="btn-large btn-floating blue" href="https://www.facebook.com/CSISRM" target="_blank">
+                        <i class="fa fa-facebook"></i></a>
+                </li>
+                <li>
+                    <a class="btn-large btn-floating red" href="{% url 'layout.views.contact'%}">
+                        <i class="material-icons">mode_edit</i></a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <main>
+        {%block content%} {% endblock%}
+    </main>
+    <footer class="page-footer indigo darken-1">
+        <div class="footer-copyright">
+            <div class="container">
+                Developed and Created by Pranav Puri(kybrdbnd)
+                <a class="grey-text text-lighten-4" href="https://www.facebook.com/profile.php?id=100004364520915" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a class="grey-text text-lighten-4" href="https://www.twitter.com/kybrdbnd" target="_blank">
+                    <i class="fa fa-twitter"></i></a>
+                <a class="grey-text text-lighten-4" href="https://plus.google.com/+PranavPurikybrdbnd" target="_blank">
+                    <i class="fa fa-google-plus"></i></a>
+                <a class="grey-text text-lighten-4" href="https://in.linkedin.com/in/kybrdbnd" target="_blank">
+                    <i class="fa fa-linkedin"></i></a>
+            </div>
+        </div>
+    </footer>
+    {% include "js.html" %}
+</body>
+{% block toast%} {% endblock %}
+
+</html>
