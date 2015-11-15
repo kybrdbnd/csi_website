@@ -1,0 +1,51 @@
+.clearfix {
+    height: 20px;
+}
+
+.gallery img {
+    margin-top: 25px;
+}
+
+input[type=submit] {
+    padding: 5px 15px;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.collection .collection-item.avatar {
+    min-height: 100px !important;
+    padding-left: 72px;
+    position: relative;
+}
+
+.collection .collection-item.avatar .circle {
+    position: absolute;
+    width: 80px !important;
+    height: 80px !important;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.collection .collection-item.avatar .title {
+    font-size: 18px !important;
+    font-weight: bold;
+    margin-left: 40px;
+    line-height: 30px;
+}
+
+.collection .collection-item.avatar p {
+    margin-left: 40px !important;
+}
+
+.secondary-content .fa {
+    padding-top: 10px;
+    vertical-align: middle;
+}
+
+.card .map {
+    padding: 5px;
+}
