@@ -67,16 +67,6 @@
             <div class="row">
                 <div class="input-field col s8 m8">
                     <input type="submit" value="send" class="waves-effect waves-light btn" id='send'>
-                    <script type="text/javascript">
-                    $("submit").click(function() {
-                        $("#send").load(function(responseTxt, statusTxt, xhr) {
-                            if (statusTxt == "success")
-                                alert('send');
-                            if (statusTxt == "error")
-                                alert("failed");
-                        });
-                    })
-                    </script>
                 </div>
             </div>
         </form>

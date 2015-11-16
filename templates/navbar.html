@@ -9,11 +9,11 @@
     <nav>
         <div class="nav-wrapper indigo darken-1">
             <header>
-                <a href="{% url 'layout.views.home'%" class="brand-logo">Computer Society of India</a>
+                <a href="{% url 'layout.views.home'%}" class="brand-logo">Computer Society of India</a>
             </header>
             <ul id="slide-out" class="side-nav fixed" style="width:240px;">
                 <li class="logo">
-                    <a id="logo-container" href="#" class="brand-logo">
+                    <a id="logo-container" href="{% url 'layout.views.home'%}" class="brand-logo">
                         <img src="{%static 'img/logo.png'%}" alt="" height="150px" width="150px">
                         <br><span id="logo_title"><strong>CSI SRM Student Chapter</strong></span>
                     </a>
@@ -58,7 +58,7 @@
         </div>
     </nav>
     <main>
-        {%block content%} {% endblock%}
+        {%block content%} {%endblock%}
     </main>
     <footer class="page-footer indigo darken-1">
         <div class="footer-copyright">

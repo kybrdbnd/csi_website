@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"settings〔module〕"
+			],
+			[
+				"tr",
+				"try	Try/Except"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"e",
+				"events"
+			],
+			[
+				"stat",
+				"statusTxt"
+			],
+			[
+				"cli",
+				"class〔function〕"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"sed",
+				"sender"
+			],
+			[
+				"la",
+				"label_tag"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"re",
+				"request〔argument〕"
+			],
+			[
+				"sen",
+				"sender"
+			],
+			[
+				"form",
+				"form	Tag"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"scri",
+				"script	Tag"
+			],
+			[
+				"ac",
+				"activator"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"map",
+				"map"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"em",
+				"em	<em>"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"spa",
+				"spacegallery"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"Image",
+				"ImageModel"
+			],
+			[
+				"mo",
+				"model	model"
+			],
+			[
+				"a",
+				"a"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/navbar.html",
+			"settings":
+			{
+				"buffer_size": 3775,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Projects/csi_website/src/templates/navbar.html",
+		"/D/Projects/csi_website/src/layout/forms.py",
+		"/D/Projects/csi_website/src/layout/views.py",
+		"/D/Projects/csi_website/src/csi_website/settings/__init__.py",
+		"/D/Projects/csi_website/src/templates/events.html",
+		"/D/Projects/csi_website/src/templates/css.html",
+		"/D/Projects/csi_website/src/templates/404.html",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 2/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 2/Packages/User/Python (Django).sublime-settings",
+		"/D/Projects/csi_website/src/csi_website.sublime-workspace",
+		"/D/Projects/csi_website/src/static/static_root/staticfiles.json",
+		"/D/Projects/csi_website/src/Procfile",
+		"/D/Projects/csi_website/src/static/static_dirs/css/icon.css",
+		"/D/Projects/csi_website/src/static/static_dirs/font/font-awesome.css",
+		"/D/Projects/csi_website/src/static/static_dirs/font/font-awesome.min.css",
+		"/D/Projects/csi_website/src/templates/forms.html",
+		"/D/Projects/csi_website/src/csi_website.sublime-project",
+		"/D/Projects/csi_website/src/csi_website/settings/production.py",
+		"/D/Projects/csi_website/src/csi_website/settings/base.py",
+		"/D/Projects/csi_website/src/csi_website/wsgi.py",
+		"/D/Projects/csi_website/src/static/static_dirs/css/font-awesome.min.css",
+		"/D/Projects/csi_website/src/static/static_dirs/css/font-awesome.css",
+		"/D/Projects/csi_website/src/csi_website/settings/local.py",
+		"/D/Projects/csi_website/src/csi_website/settings_old.py",
+		"/D/Projects/csi_website/src/static_in_pro/our_static/css/font-awesome.css",
+		"/D/Projects/csi_website/src/static_in_pro/our_static/css/font-awesome.min.css",
+		"/D/Projects/csi_website/requirements.txt",
+		"/D/Projects/csi_website/.gitignore",
+		"/D/Projects/csi_website/Procfile",
+		"/D/Projects/csi_website/runtime.txt",
+		"/D/Projects/csi_website/src/requirements.txt",
+		"/D/Projects/csi_website/Procfile.txt",
+		"/D/Projects/csi_website/src/csi_website/settings/__ini__.py",
+		"/D/Projects/csi_website _t/src/csi_website/settings/production.py",
+		"/D/Projects/csi_website _t/src/csi_website/settings/base.py",
+		"/D/Projects/csi_website _t/src/csi_website/settings/__init__.py",
+		"/D/Projects/csi_website _t/src/csi_website/old_settings.py",
+		"/D/Projects/csi_website _t/src/csi_website/settings/local.py",
+		"/D/Projects/csi_website/src/templates/about.html",
+		"/D/Projects/csi_website/src/static_in_pro/our_static/css/navbar.css",
+		"/D/Projects/csi_website/src/templates/js.html",
+		"/D/Downloads/Dynamic-Circular-Progress-Bar-with-jQuery-CSS3/Dynamic-Circular-Progress-Bar-with-jQuery-CSS3/jQuery-plugin-progressbar.css",
+		"/D/Downloads/Dynamic-Circular-Progress-Bar-with-jQuery-CSS3/Dynamic-Circular-Progress-Bar-with-jQuery-CSS3/README.md",
+		"/D/Projects/csi_website/src/static_in_pro/our_static/js/jquery.min.js",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/User/AutoPep8.sublime-settings",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/Default.sublime-keymap",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/Projects/csi_website/src/static_in_pro/our_static/css/main.css",
+		"/D/Projects/csi_website/src/templates/team.html",
+		"/D/Projects/csi_website/src/static_in_pro/our_static/css/materialize.css",
+		"/D/Projects/csi_website/src/templates/gallery.html",
+		"/D/Downloads/spacegallery/index.html",
+		"/D/Downloads/spacegallery/css/layout.css",
+		"/D/Projects/csi_website/css.html",
+		"/D/Projects/csi_website/src/layout/models.py",
+		"/D/Projects/csi_website/src/layout/admin.py",
+		"/D/Projects/django18/src/newsletter/forms.py",
+		"/D/Projects/csi_website/src/csi_website/settings.py",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/codes/python/simple.py",
+		"/D/codes/python/akhar.py",
+		"/D/Projects/django18/src/newsletter/views.py",
+		"/C/Users/kybrdbnd/Desktop/hotspot.bat",
+		"/C/Users/kybrdbnd/Downloads/virtualenvwrapper-4.7.1/setup.cfg",
+		"/C/Users/kybrdbnd/Downloads/virtualenvwrapper-4.7.1/setup.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/navbar.html",
+					"settings":
+					{
+						"buffer_size": 3775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"n",
+				"src/templates/navbar.html"
+			],
+			[
+				"abo",
+				"src\\templates\\about.html"
+			],
+			[
+				"url",
+				"src\\csi_website\\urls.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/codes/python/codes.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true
+}
