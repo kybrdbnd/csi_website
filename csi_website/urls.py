@@ -19,10 +19,10 @@ from django.conf import settings
 from django.conf.urls.static import static
 
 urlpatterns = [
-                  url(r'^admin/', include(admin.site.urls)),
-                  url(r'^$', 'layout.views.home', name='home'),
-                  url(r'^contact/', 'layout.views.contact', name='contact'),
-                  url(r'^events/', 'layout.views.events', name='events'),
-                  url(r'^gallery/', 'layout.views.gallery', name='gallery'),
-                  url(r'^team/', 'layout.views.team', name='team'),
-              ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+    url(r'^admin/', include(admin.site.urls)),
+    url(r'^$', 'layout.views.home', name='home'),
+    url(r'^contact/', 'layout.views.contact', name='contact'),
+    url(r'^events/', 'layout.views.events', name='events'),
+    url(r'^gallery/', 'layout.views.gallery', name='gallery'),
+    url(r'^team/', 'layout.views.team', name='team'),
+] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

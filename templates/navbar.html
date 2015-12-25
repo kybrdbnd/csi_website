@@ -3,6 +3,7 @@
 
 <head>
     {% include "css.html" %}
+    <title>CSI: {% block head_title%} {% endblock %}</title>   
 </head>
 
 <body>
@@ -14,7 +15,7 @@
             <ul id="slide-out" class="side-nav fixed" style="width:240px;">
                 <li class="logo">
                     <a id="logo-container" href="{% url 'layout.views.home'%}" class="brand-logo">
-                        <img src="{%static 'img/logo.png'%}" alt="" height="150px" width="150px">
+                        <img src="{%static 'img/csi.png'%}" alt="" height="150px" width="150px">
                         <br><span id="logo_title"><strong>CSI SRM Student Chapter</strong></span>
                     </a>
                 </li>

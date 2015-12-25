@@ -1,9 +1,7 @@
-from django.conf import settings
-from django.core.mail import send_mail
-from django.core.urlresolvers import reverse
-from django.http import HttpResponseRedirect
 from django.shortcuts import render
+from django.conf import settings
 from .forms import ContactForm
+from django.core.mail import send_mail
 
 
 # Create your views here.
